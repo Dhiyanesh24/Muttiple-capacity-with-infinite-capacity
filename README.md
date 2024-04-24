@@ -58,4 +58,4 @@ print("--------------------------------------------------------------")
 ![image](https://github.com/Dhiyanesh24/Muttiple-capacity-with-infinite-capacity/assets/118362288/e357e14e-8625-47d5-9afe-86150188c2fa)
 
 ## Result : 
-
+Hence the experiment is suucessful
